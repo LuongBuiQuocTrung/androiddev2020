@@ -12,5 +12,5 @@ Student Info
 
 * Name: Lương Bùi  Quốc Trung
 * ID: USTHBI8-183
-* Group ID: 
+* Group ID: 3
 
