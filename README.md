@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
+* Name: Lương Bùi  Quốc Trung
+* ID: USTHBI8-183
+* Group ID: 
 
