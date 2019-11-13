@@ -10,6 +10,6 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Nguyen Duc Dan
-* ID: BI8-028
-* Group ID: 07
+* Name: Luowng Bùi Quốc Trung
+* ID: BI8-183
+* Group ID: 3
