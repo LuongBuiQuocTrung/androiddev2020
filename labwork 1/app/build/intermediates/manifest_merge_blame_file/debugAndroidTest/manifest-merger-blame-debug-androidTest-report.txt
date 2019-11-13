@@ -3,35 +3,35 @@
 3    package="com.example.usthweather.test" >
 4
 5    <uses-sdk
-5-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:5:5-74
+5-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:5:5-74
 6        android:minSdkVersion="15"
-6-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:5:15-41
+6-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:5:42-71
+7-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:5:42-71
 8
 9    <instrumentation
-9-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:11:5-15:73
+9-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:11:5-15:73
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:11:22-76
+10-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:11:22-76
 11        android:functionalTest="false"
-11-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:14:22-52
+11-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:14:22-52
 12        android:handleProfiling="false"
-12-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:13:22-53
+12-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:13:22-53
 13        android:label="Tests for com.example.usthweather"
-13-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:15:22-71
+13-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:15:22-71
 14        android:targetPackage="com.example.usthweather" />
-14-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:12:22-69
+14-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:12:22-69
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8b905dc169db8069fa57dc4a2866d2d4\core-1.2.0\AndroidManifest.xml:24:5-72
 16-->[androidx.test:core:1.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8b905dc169db8069fa57dc4a2866d2d4\core-1.2.0\AndroidManifest.xml:24:22-69
 17
 18    <application android:debuggable="true" >
-18-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:7:5-9:19
-18-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:7:18-43
+18-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:7:5-9:19
+18-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:7:18-43
 19        <uses-library android:name="android.test.runner" />
-19-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:8:9-60
-19-->E:\dan\androiddev2020-master\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4130903522810177651.xml:8:23-57
+19-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:8:9-60
+19-->C:\Users\user\androiddev2020\labwork 1\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger2337787224295597380.xml:8:23-57
 20
 21        <activity
 21-->[androidx.test:core:1.2.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8b905dc169db8069fa57dc4a2866d2d4\core-1.2.0\AndroidManifest.xml:27:9-33:20
