@@ -10,6 +10,6 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Luowng Bùi Quốc Trung
+* Name: Luơng Bùi Quốc Trung
 * ID: BI8-183
 * Group ID: 3
