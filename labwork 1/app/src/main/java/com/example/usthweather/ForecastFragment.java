@@ -36,13 +36,13 @@ public class ForecastFragment extends Fragment {
 
         // add the button in fragment
         ImageView weather = new ImageView(getContext());
-        weather.setImageResource(R.drawable.sunny);
+        weather.setImageResource(R.drawable.windy);
 
         TextView day = new TextView(getContext());
-        day.setText("Thursday");
+        day.setText("Tuesday");
         day.setTextSize(34);
         day.setBackgroundColor(0xFF1ed7e8);
-        day.setPadding(0, 10, 0, 10);
+        day.setPadding(20, 10, 0, 10);
 
         fragment_container.addView(weather);
         fragment_container.addView(day);
