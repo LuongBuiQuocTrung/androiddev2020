@@ -30,19 +30,17 @@ public class ForecastFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_forecast, container, false);
         view.setBackgroundColor(0xFF1ed7e8);
 
-        //practical work 4 start here
         LinearLayout fragment_container = view.findViewById(R.id.fragment_forecast);
         fragment_container.setOrientation(LinearLayout.VERTICAL);
 
         // add the button in fragment
         ImageView weather = new ImageView(getContext());
-        weather.setImageResource(R.drawable.windy);
-
+        weather.setImageResource(R.drawable.rain);
         TextView day = new TextView(getContext());
         day.setText("Tuesday");
         day.setTextSize(34);
         day.setBackgroundColor(0xFF1ed7e8);
-        day.setPadding(20, 10, 0, 10);
+
 
         fragment_container.addView(weather);
         fragment_container.addView(day);

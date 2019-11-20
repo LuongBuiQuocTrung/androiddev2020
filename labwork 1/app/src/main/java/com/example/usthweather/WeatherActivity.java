@@ -1,9 +1,12 @@
 package com.example.usthweather;
 
-import android.os.Bundle;
-import android.util.Log;
-
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+import android.os.Bundle;
+import android.os.PersistableBundle;
+import android.util.Log;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 
 public class WeatherActivity extends AppCompatActivity {
     private final String tag = "status";
@@ -14,10 +17,10 @@ public class WeatherActivity extends AppCompatActivity {
         Log.i(tag, "on create");
 
         // Create a new Fragment to be placed in the activity
-        ForecastFragment forecastFragment = new ForecastFragment();
+        ForecastFragment firstFragment = new ForecastFragment();
 
         // Add the fragment to the 'container' FrameLayout
-        getSupportFragmentManager().beginTransaction().add(R.id.container, forecastFragment).commit();
+        getSupportFragmentManager().beginTransaction().add(R.id.container, firstFragment).commit();
     }
 
     @Override

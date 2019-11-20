@@ -676,6 +676,7 @@ drawable btn_radio_on_to_off_mtrl_animation
 drawable cloudy
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable lala
 drawable light_rain
 drawable notification_action_background
 drawable notification_bg
@@ -689,11 +690,16 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable rain
+drawable snowflake
+drawable snowman
 drawable snowy
+drawable storm
 drawable stormy
 drawable sunny
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable wind
 drawable windy
 id ALT
 id CTRL
@@ -956,6 +962,12 @@ layout support_simple_spinner_dropdown_item
 layout weather_activity
 mipmap ic_launcher
 mipmap ic_launcher_round
+string ImageView1
+string ImageView2
+string Text1
+string Text2
+string Text3
+string Text4
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
