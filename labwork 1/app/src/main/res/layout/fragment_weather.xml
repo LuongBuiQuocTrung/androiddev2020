@@ -28,7 +28,7 @@
         android:layout_alignRight="@id/textTemp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:text="@string/paris"
+        android:text="Ha Noi"
         android:textSize="20sp" />
 
     <ImageView
