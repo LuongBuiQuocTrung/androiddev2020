@@ -835,6 +835,7 @@ id notification_main_column_container
 id off
 id on
 id packed
+id pager
 id parent
 id parentPanel
 id percent
@@ -946,6 +947,7 @@ layout abc_tooltip
 layout custom_dialog
 layout fragment_forecast
 layout fragment_weather
+layout fragment_weather_and_forecast
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
