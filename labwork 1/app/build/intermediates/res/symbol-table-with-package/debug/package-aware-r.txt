@@ -398,8 +398,10 @@ color accent_material_dark
 color accent_material_light
 color background_floating_material_dark
 color background_floating_material_light
+color background_forecast
 color background_material_dark
 color background_material_light
+color background_weather
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -676,7 +678,6 @@ drawable btn_radio_on_to_off_mtrl_animation
 drawable cloudy
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-drawable lala
 drawable light_rain
 drawable notification_action_background
 drawable notification_bg
@@ -802,6 +803,7 @@ id fill_horizontal
 id fill_vertical
 id forever
 id fragment_forecast
+id fragment_weather
 id gone
 id group_divider
 id groups
@@ -811,6 +813,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView
 id info
 id invisible
 id italic
@@ -885,6 +888,8 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textTemp
+id textWeather
 id time
 id title
 id titleDividerNoCustom
@@ -940,6 +945,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout custom_dialog
 layout fragment_forecast
+layout fragment_weather
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -997,8 +1003,17 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string hello_blank_fragment
+string mostly_cloudy
+string paris
+string partly_cloudy
+string rain
+string scattered_showers
 string search_menu_title
+string showers
 string status_bar_notification_info_overflow
+string sunny
+string temperature
+string thunderstorms
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

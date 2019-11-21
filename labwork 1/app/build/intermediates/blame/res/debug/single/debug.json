@@ -676,6 +676,10 @@
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "C:\\Users\\user\\androiddev2020\\labwork 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_weather.xml.flat",
+        "source": "C:\\Users\\user\\androiddev2020\\labwork 1\\app\\src\\main\\res\\layout\\fragment_weather.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\androiddev2020\\labwork 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\f01b27bb220ecb79298884ef36a7a2fb\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
@@ -1266,10 +1270,6 @@
     {
         "merged": "C:\\Users\\user\\androiddev2020\\labwork 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\d74b5b498b35fd5cb32d0a6997bb1d3d\\appcompat-1.1.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\androiddev2020\\labwork 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lala.png.flat",
-        "source": "C:\\Users\\user\\androiddev2020\\labwork 1\\app\\src\\main\\res\\drawable-hdpi\\lala.png"
     },
     {
         "merged": "C:\\Users\\user\\androiddev2020\\labwork 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
