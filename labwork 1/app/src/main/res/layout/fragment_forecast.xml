@@ -25,7 +25,7 @@
         <TextView
 
             android:layout_width="88dp"
-            android:layout_height="43dp"
+            android:layout_height="41dp"
             android:paddingLeft="50dp"
             android:text="@string/Monday" />
 
@@ -72,9 +72,10 @@
             android:layout_height="@dimen/textview_weather_height"
             android:text="@string/rain" />
     </LinearLayout>
+
     <LinearLayout
         android:layout_width="fill_parent"
-        android:layout_height="@dimen/row_height"
+        android:layout_height="wrap_content"
         android:layout_weight="1"
         android:background="#F5FFFA"
         android:orientation="horizontal"
@@ -83,27 +84,29 @@
         <TextView
 
             android:layout_width="94dp"
-            android:layout_height="32dp"
+            android:layout_height="36dp"
             android:paddingLeft="50dp"
             android:text="@string/Wednesday" />
 
         <ImageView
 
-            android:layout_width="wrap_content"
-            android:layout_height="44dp"
+            android:layout_width="75dp"
+            android:layout_height="55dp"
             android:layout_weight="0"
             android:src="@drawable/snowflake"
             android:visibility="visible"
             tools:visibility="visible" />
+
         <TextView
 
             android:layout_width="123dp"
             android:layout_height="@dimen/textview_weather_height"
             android:text="@string/Snowflake" />
     </LinearLayout>
+
     <LinearLayout
         android:layout_width="fill_parent"
-        android:layout_height="@dimen/row_height"
+        android:layout_height="42dp"
         android:layout_weight="1"
         android:background="#F5FFFA"
         android:orientation="horizontal"
@@ -111,55 +114,27 @@
 
         <TextView
 
-            android:layout_width="88dp"
-            android:layout_height="38dp"
+            android:layout_width="87dp"
+            android:layout_height="39dp"
             android:paddingLeft="50dp"
             android:text="@string/Thursday" />
 
         <ImageView
 
             android:layout_width="wrap_content"
-            android:layout_height="51dp"
+            android:layout_height="58dp"
             android:layout_weight="0"
             android:src="@drawable/storm"
             android:visibility="visible"
             tools:visibility="visible" />
+
         <TextView
 
             android:layout_width="123dp"
             android:layout_height="@dimen/textview_weather_height"
             android:text="@string/thunderstorms" />
     </LinearLayout>
-    <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="@dimen/row_height"
-        android:layout_weight="1"
-        android:background="#F5FFFA"
-        android:orientation="horizontal"
-        tools:context=".ForecastFragment">
 
-        <TextView
-
-            android:layout_width="86dp"
-            android:layout_height="30dp"
-            android:paddingLeft="50dp"
-            android:text="@string/Friday" />
-
-        <ImageView
-
-            android:layout_width="wrap_content"
-            android:layout_height="44dp"
-            android:layout_weight="0"
-            android:src="@drawable/wind"
-            android:visibility="visible"
-            tools:visibility="visible" />
-
-        <TextView
-
-            android:layout_width="123dp"
-            android:layout_height="@dimen/textview_weather_height"
-            android:text="@string/Winny" />
-    </LinearLayout>
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="@dimen/row_height"
@@ -171,7 +146,38 @@
         <TextView
 
             android:layout_width="85dp"
-            android:layout_height="29dp"
+            android:layout_height="38dp"
+            android:paddingLeft="50dp"
+            android:text="@string/Friday" />
+
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="52dp"
+            android:layout_weight="0"
+            android:src="@drawable/wind"
+            android:visibility="visible"
+            tools:visibility="visible" />
+
+        <TextView
+
+            android:layout_width="123dp"
+            android:layout_height="@dimen/textview_weather_height"
+            android:text="@string/Winny" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/row_height"
+        android:layout_weight="1"
+        android:background="#F5FFFA"
+        android:orientation="horizontal"
+        tools:context=".ForecastFragment">
+
+        <TextView
+
+            android:layout_width="85dp"
+            android:layout_height="35dp"
             android:paddingLeft="50dp"
             android:text="@string/Saturday" />
 
@@ -183,6 +189,7 @@
             android:src="@drawable/sunny"
             android:visibility="visible"
             tools:visibility="visible" />
+
         <TextView
 
             android:layout_width="123dp"
