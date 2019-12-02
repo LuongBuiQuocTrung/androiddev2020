@@ -1,19 +1,23 @@
 <resources>
     <string name="app_name">USTH Weather</string>
-    <string name="ImageView2">Icon</string>
-    <string name="ImageView1">Icon</string>
-    <string name="Text1">Mon</string>
-    <string name="Text2">Mon</string>
-    <string name="Text3">Mon</string>
-    <string name="Text4"></string>
+    <string name="Monday">Mon</string>
+    <string name="Tuesday">Tue</string>
+    <string name="Wednesday">Wed</string>
+    <string name="Thursday">Thu</string>
+    <string name="Friday">Fri</string>
+    <string name="Saturday">Sat</string>
+    <string name="Sunday">Sun</string>
     <string name="partly_cloudy">Partly Cloudy</string>
     <string name="showers">Showers</string>
     <string name="rain">Rain</string>
     <string name="sunny">Sunny</string>
-    <string name="scattered_showers">Scatered Showers</string>
+    <string name="Snowy">Snow</string>
+    <string name="Snowflake">Snowflake</string>
+    <string name="Winny">Winny</string>
+    <string name="Hot">Hot</string>
     <string name="mostly_cloudy">Mostly Cloudy</string>
     <string name="thunderstorms">Thunderstorms</string>
-    <string name="temperature">18C - 22C</string>
+    <string name="temperature">18C - 22CC</string>
     <string name="paris">Ha Noi</string>
 
     <!-- TODO: Remove or change this placeholder text -->
