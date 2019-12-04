@@ -2,6 +2,7 @@ package com.example.usthweather;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.PersistableBundle;
 import android.util.Log;
@@ -37,6 +38,8 @@ public class WeatherActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         Log.i(tag, "on resume");
+        MediaPlayer mediaPlayer = MediaPlayer.create(this, R.raw.dubaothoitiet);
+        mediaPlayer.start();
     }
 
     @Override

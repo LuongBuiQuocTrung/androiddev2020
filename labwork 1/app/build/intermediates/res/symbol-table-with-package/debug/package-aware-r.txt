@@ -1910,6 +1910,7 @@ layout weather_activity
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+raw dubaothoitiet
 string Friday
 string Hot
 string Monday
