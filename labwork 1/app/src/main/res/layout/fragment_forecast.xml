@@ -83,14 +83,14 @@
 
         <TextView
 
-            android:layout_width="94dp"
-            android:layout_height="36dp"
+            android:layout_width="89dp"
+            android:layout_height="38dp"
             android:paddingLeft="50dp"
             android:text="@string/Wednesday" />
 
         <ImageView
 
-            android:layout_width="75dp"
+            android:layout_width="wrap_content"
             android:layout_height="55dp"
             android:layout_weight="0"
             android:src="@drawable/snowflake"

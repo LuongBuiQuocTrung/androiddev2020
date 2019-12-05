@@ -1448,6 +1448,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable rain
+drawable refresh
 drawable snowflake
 drawable snowman
 drawable snowy
@@ -1519,6 +1520,7 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_refresh
 id action_text
 id actions
 id activity_chooser_view_content
@@ -1907,6 +1909,7 @@ layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
 layout weather_activity
+menu weather
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -2000,15 +2003,15 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string paris
-string partly_cloudy
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string rain
+string refresh
+string refresh_message
 string search_menu_title
-string showers
 string status_bar_notification_info_overflow
 string sunny
 string temperature

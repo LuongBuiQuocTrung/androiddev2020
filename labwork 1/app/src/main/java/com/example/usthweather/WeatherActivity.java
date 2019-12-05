@@ -5,6 +5,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.PersistableBundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.widget.Toast;
+import androidx.annotation.NonNull;
 import android.util.Log;
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -32,6 +36,17 @@ public class WeatherActivity extends AppCompatActivity {
     protected void onStart() {
         Log.i(tag, "on start");
         super.onStart();
+    }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.weather, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        Toast.makeText(this, R.string.refresh_message, Toast.LENGTH_SHORT).show();
+        return true;
     }
 
     @Override

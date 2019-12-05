@@ -19,4 +19,6 @@
     <string name="sunny">Nắng cực</string>
     <string name="temperature">18-22C</string>
     <string name="thunderstorms">Bão sấm</string>
+    <string name="refresh_message">Đã làm mới!</string>
+    <string name="refresh">Làm tươi</string>
 </resources>
